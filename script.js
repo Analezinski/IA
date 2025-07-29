@@ -20,7 +20,7 @@ const perguntas = [
     },
     {
         enunciado: "Com a descoberta da chamada Inteligência Artificial,o que é?
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações?
                 afirmacao: "afirmação"
             },
             {
