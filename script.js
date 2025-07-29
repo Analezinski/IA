@@ -24,7 +24,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Escreve cada detale de cada informação.",
                 afirmacao: "afirmação"
             }
         ]
